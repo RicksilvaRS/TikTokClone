@@ -10,7 +10,10 @@ export function Home(){
 
 const style = StyleSheet.create({
     container:{
-
+     style{
+       background:auto;
+       justify-contet:center;
+       
     }
 })
 
